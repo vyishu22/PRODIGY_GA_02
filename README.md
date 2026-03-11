@@ -1,4 +1,5 @@
 Image Generation with Pre-trained Models
+
 Overview
 
 This project implements an AI-based image generation system using the pre-trained Stable Diffusion model. The system generates images from natural language prompts, demonstrating how modern generative AI models can translate textual descriptions into meaningful visual content.
